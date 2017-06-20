@@ -13,5 +13,6 @@ This is the first project of Udacity Self-driving Cars nanodegree. It needs me t
 4. Apply Canny Edge Detection.
 5. Apply Region of Interest Mask.
 6. Apply Hough Transform.
+7. Apply Weighted image to generate annotated image where the output is having lines highlighting the lanes.
 
 
